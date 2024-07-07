@@ -1,6 +1,6 @@
 ## Building a Machine Learning-Enabled Web App
 
-###This Web App allows users to see image labelling and text extraction with confidence percentages.
+### This Web App allows users to see image labelling and text extraction with confidence percentages.
 
 ### Technology and Services
 The app stack:
